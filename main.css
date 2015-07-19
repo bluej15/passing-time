@@ -1,0 +1,188 @@
+html {
+	height: 100%
+}
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	height: 100%;
+}
+
+div.clear {
+	clear: both;
+}
+
+#wrapper {
+	background-color: lightgrey;
+	height: 100%;
+}
+
+h1 {
+	margin: 0;
+	padding-top: 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2em;
+	padding-bottom: 0px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.3em;
+	padding-bottom: 0px;
+	text-align: center;
+}
+
+h6 {
+	font-family: ;
+	font-size: 1.1em;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+p {
+	text-align: center;
+}
+
+span {
+	font-size: .8em;
+	font-family: helvetica;
+	font-style: italic;
+}
+
+div.form_container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+div.form_header {
+	height: 65px;
+	width: 500px;
+	background-color: grey;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+div.form_content {
+	height: 350px;
+	width: 500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	overflow: scroll;
+}
+
+div.form_footer {
+	height: 35px;
+	width: 500px;
+	background-color: grey;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+ul {
+	padding: 0;
+	margin: 1em;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	margin: 0, auto;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 1.1em;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: gray;
+}
+
+a#logout {
+	margin-right: 225px;
+	float: right;
+	font-size: .8em;
+	font-family: times, serif;
+}
+
+form {
+	text-align: center;
+}
+
+.heading {
+	margin-top: 15px;
+	margin-bottom: 4px;
+}
+
+#avail {
+	margin: 0;
+}
+
+#checkbox_list {
+	margin: 0;
+	text-align: left;
+	margin-left: 155px;
+}
+
+#user_checkbox_list {
+	margin: 0;
+	text-align: left;
+	margin-left: 190px;
+}
+
+p#name {
+	display: inline-block;
+	margin-left: 125px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+p#subject_name {
+	display: inline-block;
+	margin-left: 75px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+div.edit_remove {
+	display: inline-block;
+	margin-top: -25px;
+	margin-right: 125px;
+	float: right;
+}
+
+div#subject_edit_remove.edit_remove {
+	display: inline-block;
+	margin-top: -25px;
+	margin-right: 75px;
+	float: right;
+}
+
+div.link {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
